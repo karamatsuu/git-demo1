@@ -10,5 +10,9 @@ public class first {
         Now this on github 
         sout-is shortcut for System.out.println();
         */
+        /*
+        here i am checking revert command
+        musor line
+        */
     }    
 }
