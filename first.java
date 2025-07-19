@@ -11,7 +11,6 @@ public class first {
         sout-is shortcut for System.out.println();
         */
         /*
-         * branchin and merging
          */
     }    
 }
